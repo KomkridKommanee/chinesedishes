@@ -1,6 +1,5 @@
 import { Layout } from 'antd'
-import '../styles/globals.css'
-import Navbar from './Components/Navbar'
+import '../src/app/globals.css'
 
 
 function MyApp({ Component, pageProps }) {
